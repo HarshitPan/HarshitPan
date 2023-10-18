@@ -1,32 +1,30 @@
 <h1></h1>
 <div id="header" align="center">
 <div id="badges">
-<!--   <a href="https://www.linkedin.com/in/vinay-singh-thapa"> -->
+<!--   <a href="https://www.linkedin.com/in/harshit"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<!--   </a> -->
+  </a> -->
   <a href="mailto:harshitpandeyfeelings@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--   <a href="https://www.instagram.com/thapa._.vinay">
+<!--   <a href="https://www.instagram.com/harshit._._.pandey">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
 </div>
   
   <h1>
-  Hi
+  Hi There, Harshit Here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   
 </h1>
 </div>
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJrcmQzZG5tOHIwbzVqY2JmOGY5b3lxN3RxcGFzajV2amU3MDZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif" >
+<!-- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJrcmQzZG5tOHIwbzVqY2JmOGY5b3lxN3RxcGFzajV2amU3MDZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif" > -->
 
 ### :man_technologist: About Me :
 DevOps enthusiast and a Full Stack Developer
-- 🌱 I’m currently learning **React**
-- 💬 Tending to make a few **web-projects**
-- 📫 How to reach me: harshitpandeyfeelings@gmail.com
+-  I’m currently learning **React**
 ###
 
 <p><br><br></p>
