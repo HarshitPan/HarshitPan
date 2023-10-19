@@ -7,6 +7,15 @@
   <a href="mailto:harshitpandeyfeelings@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://github.com/HarshitPan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/harshitpandeyfeelings/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/harshit__pandey">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 <!--   <a href="https://www.instagram.com/harshit._._.pandey">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
@@ -72,16 +81,7 @@ DevOps enthusiast and a Full Stack Developer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HarshitPan" width="330"/>
 </p>
-  
-  <a href="https://github.com/HarshitPan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/harshitpandeyfeelings/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/harshit__pandey">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
+
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshitPan&color=5c77d6" alt="HarshitPan"/>
 </div>
