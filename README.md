@@ -34,6 +34,9 @@
 ### :man_technologist: About Me :
 DevOps enthusiast and a Full Stack Developer
 -  I’m currently learning **React**
+-  well-versed in C/C++,Java.
+-  worked on **opengl/glut** previously.
+-  working on improving my Coding Skills.
 ###
 
 <p><br><br></p>
