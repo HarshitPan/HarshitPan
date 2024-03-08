@@ -16,6 +16,9 @@
   <a href="https://www.hackerrank.com/profile/harshit__pandey">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
+    <a href="https://www.codechef.com/users/harshit3001">
+    <img src="https://img.shields.io/badge/-Codechef-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 <!--   <a href="https://www.instagram.com/harshit._._.pandey">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
