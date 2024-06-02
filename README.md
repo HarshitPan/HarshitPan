@@ -36,10 +36,14 @@
 
 ### :man_technologist: About Me :
 DevOps enthusiast and a Full Stack Developer
--  I’m currently learning **React**
--  well-versed in C/C++,Java.
--  worked on **opengl/glut** previously.
+-  I’m currently learning **Angular**
+-  well-versed in C/C++,Java, Python.
+-  Familier with web-development libraries like **React** , **Express**,etc also worked on **node**(Java Runtime Environment).
 -  working on improving my Coding Skills.
+-  450+ Problem Solved in Leetcode.
+-  **1771**(3-star) Rated in CodeChef.\
+-  **1302** (Pupil) at Codeforces.
+-  Well versed with DevOps Tools like Jenkins, Docker, Git, etc.
 ###
 
 <p><br><br></p>
