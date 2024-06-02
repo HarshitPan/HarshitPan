@@ -35,7 +35,7 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJrcmQzZG5tOHIwbzVqY2JmOGY5b3lxN3RxcGFzajV2amU3MDZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif" > -->
 
 ### :man_technologist: About Me :
-DevOps enthusiast and a Full Stack Developer
+Coding enthusiast and a Full Stack Developer
 -  I’m currently learning **Angular**
 -  well-versed in C/C++,Java, Python.
 -  Familier with web-development libraries like **React** , **Express**,etc also **node**(Java Runtime Environment).
