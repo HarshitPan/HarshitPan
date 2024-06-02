@@ -38,7 +38,7 @@
 DevOps enthusiast and a Full Stack Developer
 -  I’m currently learning **Angular**
 -  well-versed in C/C++,Java, Python.
--  Familier with web-development libraries like **React** , **Express**,etc also worked on **node**(Java Runtime Environment).
+-  Familier with web-development libraries like **React** , **Express**,etc also **node**(Java Runtime Environment).
 -  working on improving my Coding Skills.
 -  450+ Problem Solved in Leetcode.
 -  **1771**(3-star) Rated in CodeChef.\
