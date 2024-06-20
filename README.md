@@ -40,8 +40,9 @@ Coding enthusiast and a Full Stack Developer
 -  well-versed in C/C++,Java, Python.
 -  Familier with JS libraries/technologies like **React**, **Angular** , **Express**, **Node**, etc.
 -  working on improving my Coding Skills.
--  450+ Problem Solved in Leetcode.
--  **1771**(3-star) Rated in CodeChef.\
+-  500+ Problem Solved in Leetcode.
+-  **1697** Contest Rating on Leetcode
+-  **1771**(3-star) Rated in CodeChef.
 -  **1302** (Pupil) at Codeforces.
 -  Well versed with DevOps Tools like Jenkins, Docker, Git, etc.
 ###
