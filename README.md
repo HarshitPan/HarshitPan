@@ -4,13 +4,13 @@
 <!--   <a href="https://www.linkedin.com/in/harshit"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="mailto:harshitpandeyfeelings@gmail.com">
+  <a href="mailto:harshitpandey3001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/HarshitPan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/harshitpandeyfeelings/">
+  <a href="https://leetcode.com/harshit3001/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/profile/harshit__pandey">
